@@ -25,11 +25,11 @@ Application allow:
 - All upadtes in real time.
 
 Technologies used:
-  For smart-contract
+For smart-contract
 - Solidity
 - Hardhat
 - Chain
-  For front-end part
+For front-end part
 - Next.js
 - TypeScript
 - React-Moralis
